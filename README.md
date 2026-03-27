@@ -44,9 +44,6 @@ A modern and minimal **Flutter application** that provides a smooth **payment ap
 
   * Efficient form handling using Flutter widgets
 
-* 📱 **Responsive Layout**
-
-  * Works across different screen sizes
 
 ---
 
